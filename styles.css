@@ -1,0 +1,17 @@
+body{
+  background-color: paleturquoise;
+}
+
+.small-title{
+  font-size: 1em;
+  color: white;
+}
+
+.large-title{
+  font-size: 3em;
+  color: green;
+}
+
+.btn{
+  padding: 10px;
+}
